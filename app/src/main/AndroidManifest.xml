@@ -10,6 +10,9 @@
             android:supportsRtl="true"
             android:name=".NetworkRequest"
             android:theme="@style/AppTheme">
+
+        <activity android:name=".ResultActivity">
+
         <activity android:name=".FetchActivity">
         </activity>
         <activity android:name=".MainActivity">
