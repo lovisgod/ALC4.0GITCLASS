@@ -11,6 +11,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/controlbutton"
             android:text="Search"
-            android:gravity="center"/>
+            android:gravity="center"
+            android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
