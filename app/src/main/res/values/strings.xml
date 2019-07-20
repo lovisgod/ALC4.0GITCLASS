@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitSample</string>
+
+    <string name="search_user_button_title">Search User</string>
 </resources>
